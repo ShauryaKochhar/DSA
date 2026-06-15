@@ -5,7 +5,7 @@ Time Complexity: O(logn)
 Space Complexity: O(1)
 Approach: 
 1. If the number is even, we divide it by 2 and if it's odd, we subtract 1 from it. 
-2. The significant operatons are of division so the time complexity is O(logn) and the space complexity is constant - O(1).
+2. The significant operatons are of division so the time complexity is O(logn) and the space complexity is constant: O(1).
 */
 
 class Solution {
