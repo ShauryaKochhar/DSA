@@ -1,5 +1,5 @@
 /* 
-Problem: 1281. Subtract the Product and Sum of Digits of an Integer
+Problem: 1323. Maximum 69 Number
 Topic: Basic Maths
 Time Complexity: O(d) where 'd' is the number of digits in the number.
 Space Complexity: O(1)
